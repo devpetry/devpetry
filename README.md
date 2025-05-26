@@ -111,7 +111,7 @@ Me chamo João Augusto Petry, tenho 20 anos e sou natural do Rio Grande do Sul. 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-bottom: 10px;"
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=devpetry&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
