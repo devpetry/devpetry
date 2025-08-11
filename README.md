@@ -1,8 +1,8 @@
 # 👩🏻‍💻 João Augusto Petry
 
-**`Desenvolvedor Junior`**
+**`Desenvolvedor`**
 
-Me chamo João Augusto Petry, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Colégio Teutônia. Atualmente, estou cursando Engenharia de Software na UNIVATES. Hoje, estou focado no desenvolvimento contínuo das minhas habilidades, tanto adquirindo novos conhecimentos quanto aprimorando competências já consolidadas.
+Me chamo João Augusto Petry, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Colégio Teutônia. Atualmente, estou cursando Engenharia de Software na UNIVATES. Hoje, estou realizando um estágio focado no desenvolvimento contínuo das minhas habilidades, tanto adquirindo novos conhecimentos quanto aprimorando competências já consolidadas. 
 
 <div> 
     <a href="https://instagram.com/jpetry_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
