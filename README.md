@@ -121,7 +121,7 @@ Tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Co
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<!--### 📊 Estatísticas
 
 <p>
   <img 
@@ -140,4 +140,4 @@ Tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Co
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpetry&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</p>-->
