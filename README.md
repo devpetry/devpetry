@@ -25,10 +25,10 @@ Tenho 21 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Co
 ![](https://skillicons.dev/icons?i=git) -->
 
 ### 🛠️ Ferramentas
-![](https://skillicons.dev/icons?i=git)
+![](https://skillicons.dev/icons?i=postman,git,github,vercel)
 
-### 🔒 Estudando no momento
-![](https://skillicons.dev/icons?i=spring,prisma,docker,aws)
+### 🔒 Próximos objetivos
+![](https://skillicons.dev/icons?i=spring,docker,aws,firebase,cloudflare,azure,prisma)
 
 ### 📊 Estatísticas
 
